@@ -496,7 +496,7 @@ int main(int argc, char* argv[])
 				}
 			}
 
-			if (SDL_GetTicks() % 3000 == 0)
+			if (SDL_GetTicks() % 1000 == 0)
 			{
 				int type = rand() % 2;
 				int altitude = rand() % 100 + 100;

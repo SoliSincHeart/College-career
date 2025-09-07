@@ -1,4 +1,1 @@
-﻿  Games.cpp
-C:\code\project\小恐龙跑酷\Games.cpp(134,6): warning C4101: “width”: 未引用的局部变量
-C:\code\project\小恐龙跑酷\Games.cpp(186,6): warning C4101: “width”: 未引用的局部变量
-  小恐龙跑酷.vcxproj -> C:\code\project\小恐龙跑酷\x64\Debug\小恐龙跑酷.exe
+﻿  小恐龙跑酷.vcxproj -> C:\code\预备项目\小恐龙跑酷\x64\Debug\小恐龙跑酷.exe
