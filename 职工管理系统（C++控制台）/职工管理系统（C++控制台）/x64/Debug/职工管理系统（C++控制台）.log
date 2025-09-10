@@ -1,0 +1,4 @@
+﻿  workerManager.cpp
+  职工管理系统.cpp
+  正在生成代码...
+LINK : fatal error LNK1168: 无法打开 C:\code\project\职工管理系统（C++控制台）\x64\Debug\职工管理系统（C++控制台）.exe 进行写入

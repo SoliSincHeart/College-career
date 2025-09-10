@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "职工管理系统（C++控制台）", "职工管理系统（C++控制台）.vcxproj", "{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}.Debug|x64.ActiveCfg = Debug|x64
+		{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}.Debug|x64.Build.0 = Debug|x64
+		{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}.Debug|x86.Build.0 = Debug|Win32
+		{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}.Release|x64.ActiveCfg = Release|x64
+		{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}.Release|x64.Build.0 = Release|x64
+		{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}.Release|x86.ActiveCfg = Release|Win32
+		{9FB2C813-7B2B-4943-AD2E-A6C120079C9E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C291558A-A68D-4C4C-8431-9813BF16BC74}
+	EndGlobalSection
+EndGlobal

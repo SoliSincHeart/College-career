@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\project\\mc\u94C1\u5080\u5121\u8D64\u77F3\u79D1\u6280\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFA6302-2BF4-4FC7-A500-3BFC5549D0A8}|mc\u94C1\u5080\u5121\u8D64\u77F3\u79D1\u6280.vcxproj|C:\\code\\project\\mc\u94C1\u5080\u5121\u8D64\u77F3\u79D1\u6280\\\u94C1\u5080\u5121.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFA6302-2BF4-4FC7-A500-3BFC5549D0A8}|mc\u94C1\u5080\u5121\u8D64\u77F3\u79D1\u6280.vcxproj|solutionrelative:\u94C1\u5080\u5121.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:283709:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u94C1\u5080\u5121.cpp",
+              "DocumentMoniker": "C:\\code\\project\\mc\u94C1\u5080\u5121\u8D64\u77F3\u79D1\u6280\\\u94C1\u5080\u5121.cpp",
+              "RelativeDocumentMoniker": "\u94C1\u5080\u5121.cpp",
+              "ToolTip": "C:\\code\\project\\mc\u94C1\u5080\u5121\u8D64\u77F3\u79D1\u6280\\\u94C1\u5080\u5121.cpp",
+              "RelativeToolTip": "\u94C1\u5080\u5121.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T03:54:19.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
