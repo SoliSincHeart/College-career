@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://ml2k23n803jw"]
+
+[ext_resource type="AudioStream" uid="uid://qen74pjjsxwp" path="res://2dres/bgm/bg.ogg" id="1_e2o6t"]
+[ext_resource type="Script" uid="uid://mrf0t5cis5pv" path="res://Node2d.cs" id="1_feb5d"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node2D" type="Node2D" parent="."]
+script = ExtResource("1_feb5d")
+bgm = ExtResource("1_e2o6t")
