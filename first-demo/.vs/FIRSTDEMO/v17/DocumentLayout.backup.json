@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\code\\project\\first-demo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\characterbody2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:characterbody2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\textedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:textedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +43,68 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Node2d.cs",
+              "DocumentMoniker": "C:\\code\\project\\first-demo\\Node2d.cs",
+              "RelativeDocumentMoniker": "Node2d.cs",
+              "ToolTip": "C:\\code\\project\\first-demo\\Node2d.cs",
+              "RelativeToolTip": "Node2d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:42:28.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterBody2d.cs",
+              "DocumentMoniker": "C:\\code\\project\\first-demo\\CharacterBody2d.cs",
+              "RelativeDocumentMoniker": "CharacterBody2d.cs",
+              "ToolTip": "C:\\code\\project\\first-demo\\CharacterBody2d.cs",
+              "RelativeToolTip": "CharacterBody2d.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:27:55.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemList.cs",
+              "DocumentMoniker": "C:\\code\\project\\first-demo\\ItemList.cs",
+              "RelativeDocumentMoniker": "ItemList.cs",
+              "ToolTip": "C:\\code\\project\\first-demo\\ItemList.cs",
+              "RelativeToolTip": "ItemList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:20:03.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextEdit.cs",
+              "DocumentMoniker": "C:\\code\\project\\first-demo\\TextEdit.cs",
+              "RelativeDocumentMoniker": "TextEdit.cs",
+              "ToolTip": "C:\\code\\project\\first-demo\\TextEdit.cs",
+              "RelativeToolTip": "TextEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:59:19.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgressBar.cs",
+              "DocumentMoniker": "C:\\code\\project\\first-demo\\ProgressBar.cs",
+              "RelativeDocumentMoniker": "ProgressBar.cs",
+              "ToolTip": "C:\\code\\project\\first-demo\\ProgressBar.cs",
+              "RelativeToolTip": "ProgressBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:49:32.747Z"
             }
           ]
         },
