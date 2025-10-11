@@ -6,4 +6,5 @@
 position = Vector2(2, -10)
 
 [node name="json" type="Node2D" parent="."]
+position = Vector2(354, 209)
 script = ExtResource("1_80nbo")

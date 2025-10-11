@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\code\\project\\first-demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\project\\first-demo\\JsonTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JsonTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\firstdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:firstdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\project\\first-demo\\UILNode2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UILNode2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\jsontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:jsontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\textedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:textedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|c:\\code\\project\\first-demo\\uilnode2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22874892-A115-4884-8585-38AA3827E3CE}|FirstDemo.csproj|solutionrelative:uilnode2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,19 +59,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FirstDemo",
+              "DocumentMoniker": "C:\\CODE\\PROJECT\\FIRST-DEMO\\FirstDemo.csproj",
+              "RelativeDocumentMoniker": "FirstDemo.csproj",
+              "ToolTip": "C:\\CODE\\PROJECT\\FIRST-DEMO\\FirstDemo.csproj",
+              "RelativeToolTip": "FirstDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-10T02:07:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "JsonTest.cs",
               "DocumentMoniker": "C:\\code\\project\\first-demo\\JsonTest.cs",
               "RelativeDocumentMoniker": "JsonTest.cs",
               "ToolTip": "C:\\code\\project\\first-demo\\JsonTest.cs",
               "RelativeToolTip": "JsonTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T06:56:55.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UILNode2d.cs",
               "DocumentMoniker": "C:\\code\\project\\first-demo\\UILNode2d.cs",
               "RelativeDocumentMoniker": "UILNode2d.cs",
@@ -75,8 +91,7 @@
               "RelativeToolTip": "UILNode2d.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:42:54.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:42:54.335Z"
             },
             {
               "$type": "Document",
@@ -88,8 +103,7 @@
               "RelativeToolTip": "Node2d.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:42:28.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:42:28.36Z"
             },
             {
               "$type": "Document",
